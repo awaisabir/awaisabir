@@ -1,4 +1,8 @@
-# Hi, I'm Awais 👋
+<div align="center">
+    <img height="100px" width="100px" src="./6.png" />
+</div>
+
+# Hi, I'm Awais! 👋
 
 <!-- <img src="https://avatars.githubusercontent.com/u/17932734?s=400&u=ca169ed0b55373d3366d97db043fdbc93415ede1&v=4" align="right" /> -->
 
