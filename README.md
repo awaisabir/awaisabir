@@ -14,7 +14,7 @@
 [![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=awaisabir.awaisabir)](https://shields.io)
 [![Followers Badge](https://img.shields.io/github/followers/awaisabir?style=social)](https://github.com/awaisabir)
 
-#### Frontend Engineer
+#### Frontend Engineer with some Full-stack tendencies
 
 ```ts
 const Awais: Developer = {
@@ -22,13 +22,8 @@ const Awais: Developer = {
     country: "Canada",
     currentEmployer: "Amazon Web Services (AWS)",
     pastEmployers: ["Fullscript", "Klipfolio"],
-    languages: ["Javascript", "Typescript", "Java"],
-    technologies: {
-        frontend: ["React", "HTML", "CSS", "Apollo"],
-        backend: ["GraphQL", "NodeJS", "Spring"],
-        databases: ["SQL", "MongoDB"],
-        misc: ["Bash", "zsh", "selenium"]
-    },
+    languages: ["Javascript", "Typescript", "Java", "Groovy"],
+    technologies: ["React", "HTML", "CSS", "Apollo", "GraphQL", "NodeJS", "Spring"],
     architecture: ["Single Page Applications"],
     currentFocus: "Web Development with React/Apollo and GraphQL",
     funFact: "I code with only one monitor 😌"
