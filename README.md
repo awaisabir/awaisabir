@@ -14,7 +14,7 @@
 [![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=awaisabir.awaisabir)](https://shields.io)
 [![Followers Badge](https://img.shields.io/github/followers/awaisabir?style=social)](https://github.com/awaisabir)
 
-#### Frontend Engineer at Amazon Web Services (AWS) 
+#### Frontend Engineer
 
 ```ts
 const Awais: Developer = {
