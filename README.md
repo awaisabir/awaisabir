@@ -10,8 +10,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-awaisabir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/awaisabir/)](https://www.linkedin.com/in/awaisabir/) [![Medium Badge](https://img.shields.io/badge/-@awaisabir-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@awaisabir)](https://medium.com/@awaisabir) [![Github Badge](https://img.shields.io/badge/-awaisabir-grey?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/awaisabir)](https://github.com/awaisabir)
 
 
-[![Years Badge](https://badges.pufler.dev/years/awaisabir)](https://badges.pufler.dev)
-[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=awaisabir.awaisabir)](https://shields.io)
+<!-- [![Years Badge](https://badges.pufler.dev/years/awaisabir)](https://badges.pufler.dev)
+[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=awaisabir.awaisabir)](https://shields.io) -->
 [![Followers Badge](https://img.shields.io/github/followers/awaisabir?style=social)](https://github.com/awaisabir)
 
 #### Frontend Engineer with some Full-stack tendencies
