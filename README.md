@@ -18,7 +18,7 @@
 
 ```ts
 const Awais: Developer = {
-    location: "Ontario",
+    location: "Vancouver",
     country: "Canada",
     currentEmployer: "Amazon Web Services (AWS)",
     pastEmployers: ["Fullscript", "Klipfolio"],
