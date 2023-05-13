@@ -26,7 +26,7 @@ const Awais: Developer = {
     technologies: ["React", "HTML", "CSS", "Apollo", "GraphQL", "NodeJS", "Spring"],
     architecture: ["Single Page Applications"],
     currentFocus: "Web Development with React/Apollo and GraphQL",
-    funFact: "I code with only one monitor 😌"
+    funFact: "I don't drink coffee ☕"
 };
 ```
 
